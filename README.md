@@ -729,7 +729,7 @@ India                         4          4          0          8
 Pakistan                      4          3          1          6
 Namibia                       4          2          2          4
 Netherlands                   4          1          3          2
-United States Of America          4          0          4          0
+United States Of America      4          0          4          0
 
 Group B:
 Team                     Played        Won       Lost     Points
