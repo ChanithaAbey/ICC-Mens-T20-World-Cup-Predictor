@@ -906,5 +906,5 @@ Use predictions as informed estimates, not certainties.
 
 ## License
 
-MIT License | Copyright (c) 2026 Chanitha Disas Abeygunawardena
-This project is intended for educational and research purposes only.
+- MIT License | Copyright (c) 2026 Chanitha Disas Abeygunawardena
+- This project is intended for educational and research purposes only.
